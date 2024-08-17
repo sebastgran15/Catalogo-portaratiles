@@ -4,7 +4,7 @@ Decidi hacer un catalogo como proyecto personal con lo aprendido sobre HTML y CS
 
 ### Links
 
-- Live Site URL: [Netlify]([https://your-live-site-url.com](https://catalogo-portatiles-esteli.netlify.app/))
+- Live Site URL: [Netlify](https://your-live-site-url.com](https://catalogo-portatiles-esteli.netlify.app/)
 
 ## Mi proceso
 
