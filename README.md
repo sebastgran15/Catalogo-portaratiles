@@ -2,23 +2,9 @@
 
 Decidi hacer un catalogo como proyecto personal con lo aprendido sobre HTML y CSS, se que cuando comience a aprender base de datos se me hara mas facil solo traer de la base de datos y no estar copiando el codigo para asi terminar mas rapido. 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [NETLIFY](https://catalogo-portatiles-esteli.netlify.app/)
 
 ## Mi proceso
 

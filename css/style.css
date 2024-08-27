@@ -502,6 +502,7 @@ img {
 
 }
 
+
 .doble {
     display: flex;
     flex-direction: column;
@@ -519,6 +520,6 @@ img {
 }
 @media (max-width: 500px ) {
     .font{
-        font-size: 1.3rem;
+        font-size: 1.2rem;
     }
 }
